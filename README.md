@@ -11,7 +11,7 @@
 1. [Link Soal Praktikum](/src/Soal%20Praktikum%20Modul%204%20Komdat%20Jarkom%202025.docx)
 2. [File Excel]()
 3. [File GNS3]()
-4. [File CPT]()
+4. [File CPT](/src/praktikum4.cpt).
 
 ## Topologi GNS3
 ![topologi-gns3](/src/topologi-jarkom-modul4-gns.png)
