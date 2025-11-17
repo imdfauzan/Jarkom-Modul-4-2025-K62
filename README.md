@@ -17,4 +17,4 @@
 ![topologi-gns3](/src/topologi-jarkom-modul4-gns.png)
 
 ## Topologi Cisco Packet Tracer (CPT)
-![topologi-cpt]()
+![topologimodul4](/src/topologimodul4.png)
