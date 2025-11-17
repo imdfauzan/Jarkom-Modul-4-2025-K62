@@ -18,3 +18,6 @@
 
 ## Topologi Cisco Packet Tracer (CPT)
 ![topologimodul4](/src/topologimodul4.png)
+
+## Tree CDIR (CPT)
+![treecdir](/src/treecdir.png).
